@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: "https://cafelab-service-new.onrender.com",
+  baseURL: "https://coffelab-api.onrender.com",
 });
 
 // Função para criar um novo usuário
